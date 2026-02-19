@@ -1,5 +1,5 @@
 # (Crypto) Hash
-
+<!-- Marcel was here  -->
 
 Let's build blockchains from scratch (zero) step by step.
 
